@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 352ea447ea626124599839e6d62f1862
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature.002
+    100002: Armature.003
+    100004: Armature.004
+    100006: Armature.005
+    100008: Body
+    100010: Body.001
+    100012: Body.002
+    100014: Body.004
+    100016: Body.005
+    100018: Body.006
+    100020: Body.007
+    100022: Body.009
+    100024: Body.010
+    100026: Body.011
+    100028: Bone
+    100030: Bone 1
+    100032: Bone 2
+    100034: Bone 3
+    100036: Bone.001
+    100038: Bone.001 1
+    100040: Bone.001_end
+    100042: Bone.001_end 1
+    100044: Bone_end
+    100046: Bone_end 1
+    100048: //RootNode
+    400000: Armature.002
+    400002: Armature.003
+    400004: Armature.004
+    400006: Armature.005
+    400008: Body
+    400010: Body.001
+    400012: Body.002
+    400014: Body.004
+    400016: Body.005
+    400018: Body.006
+    400020: Body.007
+    400022: Body.009
+    400024: Body.010
+    400026: Body.011
+    400028: Bone
+    400030: Bone 1
+    400032: Bone 2
+    400034: Bone 3
+    400036: Bone.001
+    400038: Bone.001 1
+    400040: Bone.001_end
+    400042: Bone.001_end 1
+    400044: Bone_end
+    400046: Bone_end 1
+    400048: //RootNode
+    2100000: Blue
+    2100002: DarkGrey
+    2100004: Grey
+    2100006: White
+    2300000: Body.001
+    2300002: Body.002
+    2300004: Body.005
+    2300006: Body.010
+    3300000: Body.001
+    3300002: Body.002
+    3300004: Body.005
+    3300006: Body.010
+    4300000: Body.004
+    4300002: Body.009
+    4300004: Body
+    4300006: Body.011
+    4300008: Body.007
+    4300010: Body.006
+    4300012: Body.010
+    4300014: Body.005
+    4300016: Body.002
+    4300018: Body.001
+    7400000: Armature.005|LeftGunDownReal
+    7400002: Armature.005|LeftGunDownUp
+    7400004: Armature.005|RightGunDown
+    7400006: Armature.005|RightGunUp
+    7400008: Armature.005|Wing
+    7400010: Armature.004|LeftGunDownReal
+    7400012: Armature.004|LeftGunDownUp
+    7400014: Armature.004|RightGunDown
+    7400016: Armature.004|RightGunUp
+    7400018: Armature.004|Wing
+    7400020: Armature.003|LeftGunDownReal
+    7400022: Armature.003|LeftGunDownUp
+    7400024: Armature.003|RightGunDown
+    7400026: Armature.003|RightGunUp
+    7400028: Armature.003|TurretDown
+    7400030: Armature.003|TurretUp
+    7400032: Armature.003|Wing
+    7400034: Armature.002|LeftGunDownReal
+    7400036: Armature.002|LeftGunDownUp
+    7400038: Armature.002|RightGunDown
+    7400040: Armature.002|RightGunUp
+    7400042: Armature.002|TurretDown
+    7400044: Armature.002|TurretUp
+    7400046: Armature.002|Wing
+    9500000: //RootNode
+    13700000: Body
+    13700002: Body.004
+    13700004: Body.006
+    13700006: Body.007
+    13700008: Body.009
+    13700010: Body.011
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
